@@ -1,9 +1,10 @@
 body{
-    margin: 0;
-    padding: 0;
-    background: url(bg.jpg) no-repeat ;
+    border: 0px solid;
+    background: url(strange.png) ;
+    background-repeat: no-repeat;
     background-size: cover;
-
+    background-position: center;
+    background-attachment: fixed;
 }
 .box{
     width: 450px;
